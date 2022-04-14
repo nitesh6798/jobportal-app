@@ -1,5 +1,6 @@
 {
   "name": "jobportal",
+  "homepage": "https://nitesh6798.github.io/jobportal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
