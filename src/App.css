@@ -1,0 +1,52 @@
+.a{
+    text-align: center;
+}
+.b{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+.c{
+    display: block;
+    margin: 30px auto;
+    width: 400px;
+}
+.d{
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    align-content: center;
+}
+.e{
+    width: 200px;
+    height: 450px;
+    display: block;
+    margin: 20px auto;
+    margin-bottom: 20px;
+    
+}
+.f{
+    display: flex;
+    gap:5px;
+    align-items: center;
+    justify-content: center;
+}
+.g{
+
+    display: flex;
+    gap: 20px;
+}
+.h{
+    width: 200px;
+    height: 450px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+}
+.i{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 20px auto;
+}
