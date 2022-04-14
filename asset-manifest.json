@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jobportal-app/static/css/main.92f65ca0.css",
+    "main.js": "/jobportal-app/static/js/main.5837d007.js",
+    "static/js/787.82a51979.chunk.js": "/jobportal-app/static/js/787.82a51979.chunk.js",
+    "static/media/logo.svg": "/jobportal-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jobportal-app/index.html",
+    "main.92f65ca0.css.map": "/jobportal-app/static/css/main.92f65ca0.css.map",
+    "main.5837d007.js.map": "/jobportal-app/static/js/main.5837d007.js.map",
+    "787.82a51979.chunk.js.map": "/jobportal-app/static/js/787.82a51979.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f65ca0.css",
+    "static/js/main.5837d007.js"
+  ]
+}
